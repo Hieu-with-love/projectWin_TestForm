@@ -1,0 +1,13 @@
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\bin\Debug\Test_Form_Project.exe.config
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\bin\Debug\Test_Form_Project.exe
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\bin\Debug\Test_Form_Project.pdb
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\bin\Debug\Guna.UI.dll
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.csproj.AssemblyReference.cache
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.frmInfoCand.resources
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.Properties.Resources.resources
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.csproj.GenerateResource.cache
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.csproj.CoreCompileInputs.cache
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.csproj.CopyComplete
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.exe
+D:\Nam 2 HK2 2023-2024\Winforms\Tuan 4\Test_Form_Project\obj\Debug\Test_Form_Project.pdb
